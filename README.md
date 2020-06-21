@@ -9,4 +9,4 @@ Run the server apache server at your PC's 8080 port and for the backend it is yo
 
 Project Members - Aniket Shende , Vinashree Godse , Sourabh Dhaware
 
-Thank You , Bhujang Shinde.
+Thank You , vinashree godse.
